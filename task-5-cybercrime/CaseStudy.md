@@ -38,7 +38,7 @@ Some people who usually fall for these tricks are:
 
 If you get scammed the damage is not just about losing money. You can lose a lot of money it causes stress, anxiety and sometimes depression. You start doubting your real friends and family. Recovering the money is slow and not possible. You waste time following up with banks and police.
 
-## Real Life Inspired Story: Rohans Mistake
+## Real Life Inspired Story: Rohan's Mistake
 
 Rohan was a student in Bhopal. He used PhonePe. Google Pay for his daily expenses. One evening he got a WhatsApp message from a number he did not save. The picture looked like his friend Arjun. The message said Arjun had a bike accident and needed 7500 rupees urgently. Rohan felt worried and quickly sent the money. Later he found out it was a scam. He had sent 7500 rupees to a stranger in a few seconds. This incident taught him a lesson. From that day Rohan always verifies requests by calling the person on their known number and never scans random QR codes without checking.
 
