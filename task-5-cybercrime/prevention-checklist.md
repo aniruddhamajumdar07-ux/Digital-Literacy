@@ -19,8 +19,6 @@ If you are a victim of online fraud here is what you can do:
 * Report it on the website https://cybercrime.gov.in.
 * You can also call the National Cyber Crime Helpline at 1930 they are available 24 hours a day 7 days a week.
 
-**Quick Reminder:**
-Staying safe online is not hard to do. If you follow a simple rules you can protect your money and have peace of mind when you use UPI and do things online.
 
 **UPI and Financial Safety Tips:**
 * Do not use Wi-Fi when you are making UPI or online payments.
