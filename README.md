@@ -15,7 +15,8 @@
 
 ## Project Overview
 
-As a **Student Digital Ambassador**, this repository showcases my work across all five modules of the Digital Literacy course. The project demonstrates how to navigate the digital world responsibly — from creating awareness content and building a professional online presence, to using collaboration tools, practicing professional communication, and understanding cyber safety.
+As a first-year B.Tech student at VIT Bhopal University, I completed this Digital Literacy Portfolio for the CSE0001 course.
+I created a professional GitHub repository named “Digital-Literacy” that contains an infographic, profile screenshots, coding proofs, email drafts, checklists, and this full report. Through these five tasks, I learned how to create awareness content, build a professional online presence, use collaboration tools, practice proper email etiquette, and protect myself from cybercrimes. This project helped me understand important digital skills that will be useful throughout my college life and future career.
 
 All deliverables follow the official project brief:
 - One GitHub repository with the exact folder structure
