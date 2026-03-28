@@ -1,7 +1,5 @@
 # Digital Literacy Portfolio - CSE0001
 
-**Student Digital Ambassador Portfolio**
-
 ## Student Information
 - **Name:** Aniruddha Majumdar  
 - **Registration Number:** [25BAI10749]
