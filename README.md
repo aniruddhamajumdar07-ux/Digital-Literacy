@@ -4,8 +4,8 @@
 
 ## Student Information
 - **Name:** Aniruddha Majumdar  
-- **Registration Number:** [Please add your Reg. No. here]  
-- **Branch:** [Please add your Branch here]  
+- **Registration Number:** [25BAI10749]
+- **Branch:** [CSE AIML]  
 - **Year:** First Year B.Tech  
 - **Course:** CSE0001 – Digital Literacy  
 - **University:** VIT Bhopal University  
@@ -105,4 +105,3 @@ Detailed write-ups, reflections, and observations for all tasks are available in
 **VIT Bhopal University**  
 **Date:** March 2026
 
-*This repository serves as my permanent digital portfolio and proof of digital literacy skills.*
