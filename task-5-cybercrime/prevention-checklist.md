@@ -41,5 +41,5 @@ If you are a victim of online fraud you can report it:
 * On the website https://cybercrime.gov.in.
 * By calling the National Cyber Crime Helpline at 1930 they are available all the time.
 
-**Quick Reminder:
+**Quick Reminder:**
 It is easy to stay online. If you are careful and follow some rules you can protect your money and your UPI and you will have peace of mind.
