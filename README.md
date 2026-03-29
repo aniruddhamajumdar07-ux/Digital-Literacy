@@ -7,7 +7,7 @@
 - **Year:** First Year B.Tech  
 - **Course:** CSE0001 – Digital Literacy  
 - **University:** VIT Bhopal University  
-- **GitHub Repository:** [https://github.com/anirudhamajumdar07-ux/Digital-Literacy](https://github.com/anirudhamajumdar07-ux/Digital-Literacy)
+- **GitHub Repository:** [https://github.com/aniruddhamajumdar07-ux/Digital-Literacy]
 
 ---
 
